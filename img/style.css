@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    background-color: #635854;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-bottom: 4px solid #3596F5;
+}
+
+.navbar{
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.navbar-menu{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+.navbar-item{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-text{
+    display: block;
+    color: #fff;
+    margin-bottom: 4px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.navbar-contacts{
+    text-align: right;
+}
+
+.navbar-phone{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+.navbar-menu :hover{
+    
+}
+
+.navbar-item :hover{
+  
+}
+
+.container{
+    max-width: 1440px;
+    margin: auto;  
+}
+
+.img_house{
+  
+}
+
+.itaz{
+    float: right;
+}
+
+
+
+
+
+
+footer{
+    background-color: #D7D7D7;
+    padding-top: 30px;
+    padding-bottom: 36px;
+    border-top: 4px solid #3596F5;
+   
+}
+
+.footer-contacts{
+    padding-left: 37px;
+}
+
+.footer-text{
+    display: block;
+    color: #635854;
+    margin-bottom: 4px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.footer-phone{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #635854;
+}
+
+.footer-socibal{
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+.footer-img{
+   padding-right: 15px;
+}
+
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.all-footer{
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+   
+    align-items: center;
+    padding-top: 25px;
+}
+
+.polite{
+   margin-left: 290px;
+
+}
+
+.polite-text{
+color: #635854;
+font-size: 16px;
+font-weight: 400;
+text-decoration-line: underline; 
+padding-right: 10px;
+}
+
